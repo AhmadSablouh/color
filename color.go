@@ -1,3 +1,5 @@
+import "github.com/fatih/color"
+
 package color
 
 import (
